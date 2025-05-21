@@ -1,15 +1,16 @@
-<h1>Hi, I'm Natnael! <br/><a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Web-designer</a>, <a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Web-develpper</a>, <a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Graphics designer</a></h1>
+<h1>Hi, I'm Natnael! <br/><a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Web-designer</a>, <a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Web-develper</a>, <a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Graphics designer</a></h1>
 
-<h2>👨‍💻 Web Development Projects:</h2>
-
-- <b>WebTv for sads media(Subscriprtion based movie listing site))</b>
+<h2>👨‍💻 Web design & Development Project:</h2>
+ Front-end - HTML, CSS, JavaScript<br>
+ Back-end - PHP <br>
+- <b>WebTv Design for sads media(Subscriprtion based movie listing site)<br>
   - https://docs.google.com/document/d/1kb8Vzg8kjw7qgUF1eEY_zCOffqtCy0pGRnoKsDQvkq4/edit?usp=sharing
-  - sadstv
-https://drive.google.com/drive/folders/1CHX1dmVXfgGn37GIuzd9kcmfEdLVAUIP?usp=sharing
-webtv for sads
-https://drive.google.com/drive/folders/1zDDOxMOO7-LCzkAIkf_FkHJDkRMEQu3l?usp=sharing
-Admin:
-https://drive.google.com/drive/folders/1K4iEWGFm3uHojPfWcHR1J6yXDbiSmR_N?usp=sharing
+  <br>
+https://drive.google.com/drive/folders/1CHX1dmVXfgGn37GIuzd9kcmfEdLVAUIP?usp=sharing <br>
+WebTV for Sads <br>
+https://drive.google.com/drive/folders/1zDDOxMOO7-LCzkAIkf_FkHJDkRMEQu3l?usp=sharing <br>
+Admin: <br>
+https://drive.google.com/drive/folders/1K4iEWGFm3uHojPfWcHR1J6yXDbiSmR_N?usp=sharing <br>
 
 
 <h2> 🤳 Connect with me:</h2>
