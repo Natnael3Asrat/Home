@@ -15,7 +15,7 @@ https://drive.google.com/drive/folders/1K4iEWGFm3uHojPfWcHR1J6yXDbiSmR_N?usp=sha
 <h2> 🤳 Connect with me:</h2>
 
 [[linkedin](https://www.linkedin.com/in/natnael-asrat-58798025a)]:
-[[Telegram](https://t.me/@natnaelasrat3)]: 
+[[Telegram](https://www.t.me/@natnaelasrat3)]: 
 
 <!--
 **about me is a ✨ _regular_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
