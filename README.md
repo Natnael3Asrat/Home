@@ -1,4 +1,4 @@
-<h1>Hi, I'm Natnael! <br/><a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Web-designer</a>, <a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Web-develper</a>, <a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Graphics designer</a></h1>
+<h1>Hi! I'm Natnael, <br/><a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Web-designer</a>, <a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Web-develper</a>, <a href="https://www.linkedin.com/in/natnael-asrat-58798025a">Graphics designer</a></h1>
 
 <h2>👨‍💻 Web Design & Development Project:</h2> <br> <br>
  Front-end - HTML, CSS, JavaScript<br>
